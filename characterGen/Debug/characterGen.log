@@ -1,0 +1,3 @@
+﻿  characterGen.cpp
+h:\cplusplus\charactergen\charactergen\charactergen.cpp(139): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  characterGen.vcxproj -> H:\CPlusPlus\characterGen\Debug\characterGen.exe
